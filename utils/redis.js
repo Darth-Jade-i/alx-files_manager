@@ -1,6 +1,4 @@
-/**
- * Contains redis client class and some helper functions
- */
+/*eslint-disable */
 import {
     createClient
 } from "redis";
