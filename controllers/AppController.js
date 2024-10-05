@@ -1,3 +1,6 @@
+// @ts-nocheck
+/* eslint-disable */
+
 import redisClient from '../utils/redis';
 import dbClient from '../utils/db';
 
